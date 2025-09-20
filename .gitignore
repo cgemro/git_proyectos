@@ -1,0 +1,8 @@
+
+.project
+*.prefs
+module1/.classpath
+module2/.classpath
+module2/src/main/java/com/acme/module2/Module2.java
+module2/src/main/java/com/acme/module2/Module2.java
+tests/.classpath
